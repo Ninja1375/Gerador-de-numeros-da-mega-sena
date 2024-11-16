@@ -1,6 +1,6 @@
 **Veja o projeto ao vivo:**
 
-**[Gerador de Números da Mega Sena](ftyy)**
+**[Gerador de Números da Mega Sena](https://ninja1375.github.io/Gerador-de-numeros-da-mega-sena/)**
 
 ## Introdução ##
 

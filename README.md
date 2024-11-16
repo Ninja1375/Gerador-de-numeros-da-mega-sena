@@ -76,4 +76,6 @@ Adicionar a funcionalidade para exportar os números gerados em formato PDF ou C
 
 Expandir o projeto para gerar números para outros jogos de lotéria.
 
-Este projeto é ideal para quem deseja praticar ou aprender sobre desenvolvimento web com HTML, CSS e JavaScript, além de ser uma ferramenta útil para quem aposta na Mega Sena. Este projeto é de código aberto, fique à vontade para clonar, modificar, bifurcar e etc.
+Este projeto é ideal para quem deseja praticar ou aprender sobre desenvolvimento web com HTML, CSS e JavaScript, além de ser uma ferramenta útil para quem aposta na Mega Sena. 
+
+Este projeto é de código aberto, fique à vontade para clonar, modificar, bifurcar e etc.

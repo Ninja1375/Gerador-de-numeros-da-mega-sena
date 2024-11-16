@@ -12,29 +12,33 @@ Este projeto é uma aplicação web simples e funcional que gera números aleat�
 
 Os números são gerados de forma aleatória entre 1 e 60.Não há repetição de números dentro da sequência gerada.Os números são exibidos em ordem crescente para facilitar a visualização.
 
-Escolha da Quantidade de Números:
+**Escolha da Quantidade de Números:**
 
-O utilizador pode escolher quantos números deseja gerar, variando entre 6 e 15.A seleção é feita através de um menu suspenso.
+O usuário pode escolher quantos números deseja gerar, variando entre 6 e 15.A seleção é feita através de um menu suspenso.
 
-Interface Responsiva e Elegante:
+## Interface Responsiva e Elegante: ##
 
 O design utiliza cores modernas e um layout limpo.Cada número é exibido como uma "bola" com um estilo visual similar aos sorteios reais.
 
-Botão Interativo:
+**Botão Interativo:**
 
-O botão para gerar números muda de cor ao passar o rato, garantindo uma experiência de utilizador mais dinâmica.Tecnologias Utilizadas:
+O botão para gerar números muda de cor ao passar o mouse, garantindo uma experiência de usuário mais dinâmica.
 
-HTML:
+## Tecnologias Utilizadas: ##
+
+**HTML:**
 
 Estrutura básica da aplicação.Elementos semânticos para melhorar a acessibilidade.
 
-CSS:
+**CSS:**
 
 Design elegante com um esquema de cores modernas (azul, verde e branco).Layout flexível para uma visualização organizada e responsiva.
 
-JavaScript:
+**JavaScript:**
 
-Lógica para gerar números aleatórios sem repetição.Preenchimento dinâmico do menu suspenso com as opções (de 6 a 15 números).Manipulação de eventos para gerar e exibir os números.Como Funciona:
+Lógica para gerar números aleatórios sem repetição.Preenchimento dinâmico do menu suspenso com as opções (de 6 a 15 números). Manipulação de eventos para gerar e exibir os números.
+
+## Como Funciona: ##
 
 Ao abrir a aplicação, o utilizador verá:
 

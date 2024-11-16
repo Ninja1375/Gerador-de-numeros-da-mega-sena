@@ -40,30 +40,40 @@ Lógica para gerar números aleatórios sem repetição.Preenchimento dinâmico 
 
 ## Como Funciona: ##
 
-Ao abrir a aplicação, o utilizador verá:
+**Ao abrir a aplicação, o usuário verá:**
 
-Um título elegante.Um menu suspenso para selecionar a quantidade de números.Um botão para gerar os números.Um espaço vazio que será preenchido com os números gerados.
+Um título elegante.
+
+Um menu suspenso para selecionar a quantidade de números.
+
+Um botão para gerar os números.
+
+Um espaço vazio que será preenchido com os números gerados.
 
 O utilizador escolhe uma quantidade entre 6 e 15 no menu suspenso.
 
-Ao clicar no botão "Gerar Números":
+**Ao clicar no botão "Gerar Números":**
 
-O programa gera números aleatórios, sem repetições.Os números são exibidos em "bolas" estilizadas, organizados em ordem crescente.Possíveis Melhorias Futuras:
+O programa gera números aleatórios, sem repetições.
 
-Validação de Regras da Mega Sena:
+Os números são exibidos em "bolas" estilizadas, organizados em ordem crescente.
+
+## Possíveis Melhorias Futuras: ##
+
+**Validação de Regras da Mega Sena:**
 
 Implementar verificações de limites de apostas permitidas (como custo e restrições do jogo).
 
-Geração de Múltiplas Sequências:
+**Geração de Múltiplas Sequências:**
 
-Permitir que o utilizador gere várias sequências de números de uma só vez.
+Permitir que o usuário gere várias sequências de números de uma só vez.
 
-Exportação:
+**Exportação:**
 
 Adicionar a funcionalidade para exportar os números gerados em formato PDF ou CSV.
 
-Adaptação para Outros Jogos:
+**Adaptação para Outros Jogos:**
 
-Expandir o projeto para gerar números para outros jogos de lotaria.
+Expandir o projeto para gerar números para outros jogos de lotéria.
 
-Este projeto é ideal para quem deseja praticar ou aprender sobre desenvolvimento web com HTML, CSS e JavaScript, além de ser uma ferramenta útil para quem aposta na Mega Sena.
+Este projeto é ideal para quem deseja praticar ou aprender sobre desenvolvimento web com HTML, CSS e JavaScript, além de ser uma ferramenta útil para quem aposta na Mega Sena. Este projeto é de código aberto, fique à vontade para clonar, modificar, bifurcar e etc.

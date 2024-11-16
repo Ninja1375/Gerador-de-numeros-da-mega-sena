@@ -1,8 +1,14 @@
-Este projeto é uma aplicação web simples e funcional que gera números aleatórios para apostas na Mega Sena. O utilizador pode selecionar a quantidade de números desejada (entre 6 e 15) e obter uma sequência de números aleatórios entre 1 e 60, organizados de forma crescente. O design é elegante, responsivo e funcional, com uma interface intuitiva.
+**Veja o projeto ao vivo:**
 
-Funcionalidades Principais:
+**[Gerador de Números da Mega Sena](ftyy)**
 
-Geração de Números Aleatórios:
+## Introdução ##
+
+Este projeto é uma aplicação web simples e funcional que gera números aleatórios para apostas na Mega Sena. O usuário pode selecionar a quantidade de números desejada (entre 6 e 15) e obter uma sequência de números aleatórios entre 1 e 60, organizados de forma crescente. O design é elegante, responsivo e funcional, com uma interface intuitiva.
+
+## Funcionalidades Principais: ##
+
+**Geração de Números Aleatórios:**
 
 Os números são gerados de forma aleatória entre 1 e 60.Não há repetição de números dentro da sequência gerada.Os números são exibidos em ordem crescente para facilitar a visualização.
 
